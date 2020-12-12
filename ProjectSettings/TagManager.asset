@@ -10,6 +10,7 @@ TagManager:
   - Pink
   - Block
   - ColorChanger
+  - LastPoint
   layers:
   - Default
   - TransparentFX
